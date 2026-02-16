@@ -1,4 +1,4 @@
-# 📦 E-Com-Fake-Product-API
+# 📦 E-Commerce-Product-API
 
 A **simple, frontend e-commerce product UI** powered by a **fake product API** — perfect for practicing API integration, building demos, or using as a frontend starter for e-commerce projects.
 
