@@ -124,6 +124,20 @@ sectionProducts.map(product => `...`)
 
 ---
 
+
+  ## 👨‍💻 Author
+
+**Muhammad Ahmed (AhmedDevx07)**
+🚀 Full Stack MERN Developer
+🎨 Passionate about Modern UI/UX & Scalable Web Apps
+
+### 🌐 Connect With Me
+
+* 🐙 GitHub: https://github.com/AhmedDevx07
+* 💼 LinkedIn: https://linkedin.com/in/ahmeddevx07
+
+---
+
 ## 🙌 Contribution
 
 Contributions, ideas, and improvements are welcome!
